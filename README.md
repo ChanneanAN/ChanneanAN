@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -48,7 +48,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/ChanneanAN?tab=stars" />
 
 </details>
-[facebook]: https://www.facebook.com/channean.acn
+[facebook]: https://www.facebook.com/channean.acn/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
