@@ -38,7 +38,6 @@
   ##GitHub folower https://github.com/ChanneanAN?tab=stars 
 
 </details>
-[github]: https://github.com/ChanneanAN?tab=stars 
 [facebook]: https://www.facebook.com/channean.acn/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
