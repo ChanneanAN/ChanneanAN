@@ -35,9 +35,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ##GitHub folower https://github.com/ChanneanAN?tab=stars 
+  ##[GitHub folower][github]
 
 </details>
+[github]: https://github.com/ChanneanAN?tab=stars 
 [facebook]: https://www.facebook.com/channean.acn/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
