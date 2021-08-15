@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub folower" src="https://github.com/ChanneanAN?tab=followers" />
+  <img align="left" alt= GitHub folower" src="https://github.com/ChanneanAN?tab=stars />
 
 </details>
 
