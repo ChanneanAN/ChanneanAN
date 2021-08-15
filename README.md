@@ -35,10 +35,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ##GitHub folower src="https://github.com/ChanneanAN?tab=stars 
+  ##[GitHub folower][github]
 
 </details>
-
+[github]: https://github.com/ChanneanAN?tab=stars 
 [facebook]: https://www.facebook.com/channean.acn/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
@@ -50,3 +50,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
