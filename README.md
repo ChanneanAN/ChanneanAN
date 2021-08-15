@@ -29,10 +29,6 @@
 <br />
 <br />
 
----
-
-
-</details>
 [facebook]: https://www.facebook.com/channean.acn/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
