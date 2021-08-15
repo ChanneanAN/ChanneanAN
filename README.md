@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ##GitHub folower [github]
+  ##GitHub folower https://github.com/ChanneanAN?tab=stars 
 
 </details>
 [github]: https://github.com/ChanneanAN?tab=stars 
