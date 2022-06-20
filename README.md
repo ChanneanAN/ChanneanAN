@@ -1,4 +1,4 @@
-## I'm a Channean AN, Developer (Full Stack JAVAScript), and Grapihc Design!!
+## I'm  Channean AN, A Developer (Full Stack JAVAScript,Django), and Grapihc Design!!
 
 ### Connect with me:
 
